@@ -48,7 +48,7 @@
   <h2>Get in Touch</h2>
   <p>Call or email us for a free quote.</p>
   <div class="contact-box">
-    <p><strong>📞 Phone:</strong> (555) 123-4567</p>
+    <p><strong>📞 Phone:</strong> 321-446-7171</p>
     <p><strong>📧 Email:</strong> info@greenandblue.com</p>
   </div>
 </section>
